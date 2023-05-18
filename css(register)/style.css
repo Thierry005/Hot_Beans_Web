@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Exo+2|Yatra+One');
+
+
+body{
+	background-image: url("coding.gif");
+	background-repeat: no-repeat;
+	background-size: 100% 1200px;
+}
+.simple-form{
+	text-align: center;
+	margin: 45px 500px;
+}
+#registration{
+	width: 100%;
+	background-color: #000000;
+	opacity: 0.9;
+	padding: 30px 0px;
+}
+#button{
+	width: 250px;
+	padding: 10px;
+	border-radius: 5px;
+	outline: 0px
+	
+}
+#ph{
+	width: 250px;
+	 padding: 10px;
+	border-radius: 5px;
+}
+#phone{
+	width: 200px;
+	padding: 10px;
+	border-radius: 5px;
+	outline: 0px	
+}
+#rd{
+	
+}
+#but{
+	color: white;
+	font-size: 18px;
+}
+#butt{
+	width: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    outline: 0px;
+    background-color: #36a2e0;
+    border: 2px solid #ffffff;
+    color: aliceblue;
+    font-size: 18px;
+}
+.navbar{
+	text-align: right;
+	flex: 1;
+}
+
+.navbar a{
+	padding: 6px 20px;
+	text-decoration: none;
+	color: white;
+	margin-left: 20px;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'Exo 2', sans-serif;
+}
+.img{
+	text-align: left;
+	flex: 1;
+	
+}
